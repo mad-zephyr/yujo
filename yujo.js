@@ -1,7 +1,7 @@
- 
+// JS deliver test 
 window.addEventListener('DOMContentLoaded', function(){
     
-
+    const body  = document.querySelector('.body');
     const wrapper  = document.querySelector('.wrapper');
     const wrapperTn = wrapper.querySelector('.tn-atom');
     const body = document.querySelector('body');
